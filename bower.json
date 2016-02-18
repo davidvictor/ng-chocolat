@@ -5,7 +5,7 @@
     "Benoit deKajoo <dekajoo@gmail.com>"
   ],
   "description": "angular integration of the famous lightbox jQuery plugin chocolat.js",
-  "main": "app.js",
+  "main": "./src/ng-chocolat.js",
   "keywords": [
     "chocolatjs",
     "chocolat",
